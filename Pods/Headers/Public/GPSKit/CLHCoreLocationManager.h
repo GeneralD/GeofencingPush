@@ -1,0 +1,1 @@
+../../../GPSKit/Source/CLHCoreLocationManager.h
